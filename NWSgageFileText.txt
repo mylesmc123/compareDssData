@@ -1,0 +1,1660 @@
+
+Gage: DB11203_01_August_2017_NWS
+    Last Modified Date: 19 May 2021
+    Last Modified Time: 22:52:56
+    Reference Height Units: Feet
+    Reference Height: 32
+    Gage Type: Precipitation
+    Precipitation Type: Incremental
+    Units: IN
+    Data Type: PER-CUM
+    Data Source Type: External DSS
+    Variant: Variant-0
+        Last Variant Modified Date: 8 October 2020
+        Last Variant Modified Time: 21:27:17
+        Default Variant: Yes
+        DSS File Name: Harvey_Metvue_Hyet.dss
+        DSS Pathname: //DB11203_01/PRECIP-INC/01AUG2017/1HOUR//
+        Start Time: 23 August 2017, 00:15
+        End Time: 5 September 2017, 00:00
+    End Variant: Variant-0
+End:
+        
+Gage: BB100_02_August_2017_NWS
+    Last Modified Date: 19 May 2021
+    Last Modified Time: 22:52:56
+    Reference Height Units: Feet
+    Reference Height: 32
+    Gage Type: Precipitation
+    Precipitation Type: Incremental
+    Units: IN
+    Data Type: PER-CUM
+    Data Source Type: External DSS
+    Variant: Variant-0
+        Last Variant Modified Date: 8 October 2020
+        Last Variant Modified Time: 21:27:17
+        Default Variant: Yes
+        DSS File Name: Harvey_Metvue_Hyet.dss
+        DSS Pathname: //BB100_02/PRECIP-INC/01AUG2017/1HOUR//
+        Start Time: 23 August 2017, 00:15
+        End Time: 5 September 2017, 00:00
+    End Variant: Variant-0
+End:
+        
+Gage: DB101_01_August_2017_NWS
+    Last Modified Date: 19 May 2021
+    Last Modified Time: 22:52:56
+    Reference Height Units: Feet
+    Reference Height: 32
+    Gage Type: Precipitation
+    Precipitation Type: Incremental
+    Units: IN
+    Data Type: PER-CUM
+    Data Source Type: External DSS
+    Variant: Variant-0
+        Last Variant Modified Date: 8 October 2020
+        Last Variant Modified Time: 21:27:17
+        Default Variant: Yes
+        DSS File Name: Harvey_Metvue_Hyet.dss
+        DSS Pathname: //DB101_01/PRECIP-INC/01AUG2017/1HOUR//
+        Start Time: 23 August 2017, 00:15
+        End Time: 5 September 2017, 00:00
+    End Variant: Variant-0
+End:
+        
+Gage: DB112_03_August_2017_NWS
+    Last Modified Date: 19 May 2021
+    Last Modified Time: 22:52:56
+    Reference Height Units: Feet
+    Reference Height: 32
+    Gage Type: Precipitation
+    Precipitation Type: Incremental
+    Units: IN
+    Data Type: PER-CUM
+    Data Source Type: External DSS
+    Variant: Variant-0
+        Last Variant Modified Date: 8 October 2020
+        Last Variant Modified Time: 21:27:17
+        Default Variant: Yes
+        DSS File Name: Harvey_Metvue_Hyet.dss
+        DSS Pathname: //DB112_03/PRECIP-INC/01AUG2017/1HOUR//
+        Start Time: 23 August 2017, 00:15
+        End Time: 5 September 2017, 00:00
+    End Variant: Variant-0
+End:
+        
+Gage: DB112_01_August_2017_NWS
+    Last Modified Date: 19 May 2021
+    Last Modified Time: 22:52:56
+    Reference Height Units: Feet
+    Reference Height: 32
+    Gage Type: Precipitation
+    Precipitation Type: Incremental
+    Units: IN
+    Data Type: PER-CUM
+    Data Source Type: External DSS
+    Variant: Variant-0
+        Last Variant Modified Date: 8 October 2020
+        Last Variant Modified Time: 21:27:17
+        Default Variant: Yes
+        DSS File Name: Harvey_Metvue_Hyet.dss
+        DSS Pathname: //DB112_01/PRECIP-INC/01AUG2017/1HOUR//
+        Start Time: 23 August 2017, 00:15
+        End Time: 5 September 2017, 00:00
+    End Variant: Variant-0
+End:
+        
+Gage: DB10501_02_August_2017_NWS
+    Last Modified Date: 19 May 2021
+    Last Modified Time: 22:52:56
+    Reference Height Units: Feet
+    Reference Height: 32
+    Gage Type: Precipitation
+    Precipitation Type: Incremental
+    Units: IN
+    Data Type: PER-CUM
+    Data Source Type: External DSS
+    Variant: Variant-0
+        Last Variant Modified Date: 8 October 2020
+        Last Variant Modified Time: 21:27:17
+        Default Variant: Yes
+        DSS File Name: Harvey_Metvue_Hyet.dss
+        DSS Pathname: //DB10501_02/PRECIP-INC/01AUG2017/1HOUR//
+        Start Time: 23 August 2017, 00:15
+        End Time: 5 September 2017, 00:00
+    End Variant: Variant-0
+End:
+        
+Gage: DB106_01_August_2017_NWS
+    Last Modified Date: 19 May 2021
+    Last Modified Time: 22:52:56
+    Reference Height Units: Feet
+    Reference Height: 32
+    Gage Type: Precipitation
+    Precipitation Type: Incremental
+    Units: IN
+    Data Type: PER-CUM
+    Data Source Type: External DSS
+    Variant: Variant-0
+        Last Variant Modified Date: 8 October 2020
+        Last Variant Modified Time: 21:27:17
+        Default Variant: Yes
+        DSS File Name: Harvey_Metvue_Hyet.dss
+        DSS Pathname: //DB106_01/PRECIP-INC/01AUG2017/1HOUR//
+        Start Time: 23 August 2017, 00:15
+        End Time: 5 September 2017, 00:00
+    End Variant: Variant-0
+End:
+        
+Gage: DB10201_02_August_2017_NWS
+    Last Modified Date: 19 May 2021
+    Last Modified Time: 22:52:56
+    Reference Height Units: Feet
+    Reference Height: 32
+    Gage Type: Precipitation
+    Precipitation Type: Incremental
+    Units: IN
+    Data Type: PER-CUM
+    Data Source Type: External DSS
+    Variant: Variant-0
+        Last Variant Modified Date: 8 October 2020
+        Last Variant Modified Time: 21:27:17
+        Default Variant: Yes
+        DSS File Name: Harvey_Metvue_Hyet.dss
+        DSS Pathname: //DB10201_02/PRECIP-INC/01AUG2017/1HOUR//
+        Start Time: 23 August 2017, 00:15
+        End Time: 5 September 2017, 00:00
+    End Variant: Variant-0
+End:
+        
+Gage: DB110_02_August_2017_NWS
+    Last Modified Date: 19 May 2021
+    Last Modified Time: 22:52:56
+    Reference Height Units: Feet
+    Reference Height: 32
+    Gage Type: Precipitation
+    Precipitation Type: Incremental
+    Units: IN
+    Data Type: PER-CUM
+    Data Source Type: External DSS
+    Variant: Variant-0
+        Last Variant Modified Date: 8 October 2020
+        Last Variant Modified Time: 21:27:17
+        Default Variant: Yes
+        DSS File Name: Harvey_Metvue_Hyet.dss
+        DSS Pathname: //DB110_02/PRECIP-INC/01AUG2017/1HOUR//
+        Start Time: 23 August 2017, 00:15
+        End Time: 5 September 2017, 00:00
+    End Variant: Variant-0
+End:
+        
+Gage: DB104_02_August_2017_NWS
+    Last Modified Date: 19 May 2021
+    Last Modified Time: 22:52:56
+    Reference Height Units: Feet
+    Reference Height: 32
+    Gage Type: Precipitation
+    Precipitation Type: Incremental
+    Units: IN
+    Data Type: PER-CUM
+    Data Source Type: External DSS
+    Variant: Variant-0
+        Last Variant Modified Date: 8 October 2020
+        Last Variant Modified Time: 21:27:17
+        Default Variant: Yes
+        DSS File Name: Harvey_Metvue_Hyet.dss
+        DSS Pathname: //DB104_02/PRECIP-INC/01AUG2017/1HOUR//
+        Start Time: 23 August 2017, 00:15
+        End Time: 5 September 2017, 00:00
+    End Variant: Variant-0
+End:
+        
+Gage: DB101_02_August_2017_NWS
+    Last Modified Date: 19 May 2021
+    Last Modified Time: 22:52:56
+    Reference Height Units: Feet
+    Reference Height: 32
+    Gage Type: Precipitation
+    Precipitation Type: Incremental
+    Units: IN
+    Data Type: PER-CUM
+    Data Source Type: External DSS
+    Variant: Variant-0
+        Last Variant Modified Date: 8 October 2020
+        Last Variant Modified Time: 21:27:17
+        Default Variant: Yes
+        DSS File Name: Harvey_Metvue_Hyet.dss
+        DSS Pathname: //DB101_02/PRECIP-INC/01AUG2017/1HOUR//
+        Start Time: 23 August 2017, 00:15
+        End Time: 5 September 2017, 00:00
+    End Variant: Variant-0
+End:
+        
+Gage: DB10201_03_August_2017_NWS
+    Last Modified Date: 19 May 2021
+    Last Modified Time: 22:52:56
+    Reference Height Units: Feet
+    Reference Height: 32
+    Gage Type: Precipitation
+    Precipitation Type: Incremental
+    Units: IN
+    Data Type: PER-CUM
+    Data Source Type: External DSS
+    Variant: Variant-0
+        Last Variant Modified Date: 8 October 2020
+        Last Variant Modified Time: 21:27:17
+        Default Variant: Yes
+        DSS File Name: Harvey_Metvue_Hyet.dss
+        DSS Pathname: //DB10201_03/PRECIP-INC/01AUG2017/1HOUR//
+        Start Time: 23 August 2017, 00:15
+        End Time: 5 September 2017, 00:00
+    End Variant: Variant-0
+End:
+        
+Gage: DB114_01_August_2017_NWS
+    Last Modified Date: 19 May 2021
+    Last Modified Time: 22:52:56
+    Reference Height Units: Feet
+    Reference Height: 32
+    Gage Type: Precipitation
+    Precipitation Type: Incremental
+    Units: IN
+    Data Type: PER-CUM
+    Data Source Type: External DSS
+    Variant: Variant-0
+        Last Variant Modified Date: 8 October 2020
+        Last Variant Modified Time: 21:27:17
+        Default Variant: Yes
+        DSS File Name: Harvey_Metvue_Hyet.dss
+        DSS Pathname: //DB114_01/PRECIP-INC/01AUG2017/1HOUR//
+        Start Time: 23 August 2017, 00:15
+        End Time: 5 September 2017, 00:00
+    End Variant: Variant-0
+End:
+        
+Gage: DB100_12_August_2017_NWS
+    Last Modified Date: 19 May 2021
+    Last Modified Time: 22:52:56
+    Reference Height Units: Feet
+    Reference Height: 32
+    Gage Type: Precipitation
+    Precipitation Type: Incremental
+    Units: IN
+    Data Type: PER-CUM
+    Data Source Type: External DSS
+    Variant: Variant-0
+        Last Variant Modified Date: 8 October 2020
+        Last Variant Modified Time: 21:27:17
+        Default Variant: Yes
+        DSS File Name: Harvey_Metvue_Hyet.dss
+        DSS Pathname: //DB100_12/PRECIP-INC/01AUG2017/1HOUR//
+        Start Time: 23 August 2017, 00:15
+        End Time: 5 September 2017, 00:00
+    End Variant: Variant-0
+End:
+        
+Gage: DB100_02_August_2017_NWS
+    Last Modified Date: 19 May 2021
+    Last Modified Time: 22:52:56
+    Reference Height Units: Feet
+    Reference Height: 32
+    Gage Type: Precipitation
+    Precipitation Type: Incremental
+    Units: IN
+    Data Type: PER-CUM
+    Data Source Type: External DSS
+    Variant: Variant-0
+        Last Variant Modified Date: 8 October 2020
+        Last Variant Modified Time: 21:27:17
+        Default Variant: Yes
+        DSS File Name: Harvey_Metvue_Hyet.dss
+        DSS Pathname: //DB100_02/PRECIP-INC/01AUG2017/1HOUR//
+        Start Time: 23 August 2017, 00:15
+        End Time: 5 September 2017, 00:00
+    End Variant: Variant-0
+End:
+        
+Gage: DB109_03_August_2017_NWS
+    Last Modified Date: 19 May 2021
+    Last Modified Time: 22:52:56
+    Reference Height Units: Feet
+    Reference Height: 32
+    Gage Type: Precipitation
+    Precipitation Type: Incremental
+    Units: IN
+    Data Type: PER-CUM
+    Data Source Type: External DSS
+    Variant: Variant-0
+        Last Variant Modified Date: 8 October 2020
+        Last Variant Modified Time: 21:27:17
+        Default Variant: Yes
+        DSS File Name: Harvey_Metvue_Hyet.dss
+        DSS Pathname: //DB109_03/PRECIP-INC/01AUG2017/1HOUR//
+        Start Time: 23 August 2017, 00:15
+        End Time: 5 September 2017, 00:00
+    End Variant: Variant-0
+End:
+        
+Gage: DB108_01_August_2017_NWS
+    Last Modified Date: 19 May 2021
+    Last Modified Time: 22:52:56
+    Reference Height Units: Feet
+    Reference Height: 32
+    Gage Type: Precipitation
+    Precipitation Type: Incremental
+    Units: IN
+    Data Type: PER-CUM
+    Data Source Type: External DSS
+    Variant: Variant-0
+        Last Variant Modified Date: 8 October 2020
+        Last Variant Modified Time: 21:27:17
+        Default Variant: Yes
+        DSS File Name: Harvey_Metvue_Hyet.dss
+        DSS Pathname: //DB108_01/PRECIP-INC/01AUG2017/1HOUR//
+        Start Time: 23 August 2017, 00:15
+        End Time: 5 September 2017, 00:00
+    End Variant: Variant-0
+End:
+        
+Gage: DB107_01_August_2017_NWS
+    Last Modified Date: 19 May 2021
+    Last Modified Time: 22:52:56
+    Reference Height Units: Feet
+    Reference Height: 32
+    Gage Type: Precipitation
+    Precipitation Type: Incremental
+    Units: IN
+    Data Type: PER-CUM
+    Data Source Type: External DSS
+    Variant: Variant-0
+        Last Variant Modified Date: 8 October 2020
+        Last Variant Modified Time: 21:27:17
+        Default Variant: Yes
+        DSS File Name: Harvey_Metvue_Hyet.dss
+        DSS Pathname: //DB107_01/PRECIP-INC/01AUG2017/1HOUR//
+        Start Time: 23 August 2017, 00:15
+        End Time: 5 September 2017, 00:00
+    End Variant: Variant-0
+End:
+        
+Gage: BG100_August_2017_NWS
+    Last Modified Date: 19 May 2021
+    Last Modified Time: 22:52:56
+    Reference Height Units: Feet
+    Reference Height: 32
+    Gage Type: Precipitation
+    Precipitation Type: Incremental
+    Units: IN
+    Data Type: PER-CUM
+    Data Source Type: External DSS
+    Variant: Variant-0
+        Last Variant Modified Date: 8 October 2020
+        Last Variant Modified Time: 21:27:17
+        Default Variant: Yes
+        DSS File Name: Harvey_Metvue_Hyet.dss
+        DSS Pathname: //BG100/PRECIP-INC/01AUG2017/1HOUR//
+        Start Time: 23 August 2017, 00:15
+        End Time: 5 September 2017, 00:00
+    End Variant: Variant-0
+End:
+        
+Gage: MB100_03_August_2017_NWS
+    Last Modified Date: 19 May 2021
+    Last Modified Time: 22:52:56
+    Reference Height Units: Feet
+    Reference Height: 32
+    Gage Type: Precipitation
+    Precipitation Type: Incremental
+    Units: IN
+    Data Type: PER-CUM
+    Data Source Type: External DSS
+    Variant: Variant-0
+        Last Variant Modified Date: 8 October 2020
+        Last Variant Modified Time: 21:27:17
+        Default Variant: Yes
+        DSS File Name: Harvey_Metvue_Hyet.dss
+        DSS Pathname: //MB100_03/PRECIP-INC/01AUG2017/1HOUR//
+        Start Time: 23 August 2017, 00:15
+        End Time: 5 September 2017, 00:00
+    End Variant: Variant-0
+End:
+        
+Gage: DB108_02_August_2017_NWS
+    Last Modified Date: 19 May 2021
+    Last Modified Time: 22:52:56
+    Reference Height Units: Feet
+    Reference Height: 32
+    Gage Type: Precipitation
+    Precipitation Type: Incremental
+    Units: IN
+    Data Type: PER-CUM
+    Data Source Type: External DSS
+    Variant: Variant-0
+        Last Variant Modified Date: 8 October 2020
+        Last Variant Modified Time: 21:27:17
+        Default Variant: Yes
+        DSS File Name: Harvey_Metvue_Hyet.dss
+        DSS Pathname: //DB108_02/PRECIP-INC/01AUG2017/1HOUR//
+        Start Time: 23 August 2017, 00:15
+        End Time: 5 September 2017, 00:00
+    End Variant: Variant-0
+End:
+        
+Gage: DB109_01_August_2017_NWS
+    Last Modified Date: 19 May 2021
+    Last Modified Time: 22:52:56
+    Reference Height Units: Feet
+    Reference Height: 32
+    Gage Type: Precipitation
+    Precipitation Type: Incremental
+    Units: IN
+    Data Type: PER-CUM
+    Data Source Type: External DSS
+    Variant: Variant-0
+        Last Variant Modified Date: 8 October 2020
+        Last Variant Modified Time: 21:27:17
+        Default Variant: Yes
+        DSS File Name: Harvey_Metvue_Hyet.dss
+        DSS Pathname: //DB109_01/PRECIP-INC/01AUG2017/1HOUR//
+        Start Time: 23 August 2017, 00:15
+        End Time: 5 September 2017, 00:00
+    End Variant: Variant-0
+End:
+        
+Gage: DB10502_02_August_2017_NWS
+    Last Modified Date: 19 May 2021
+    Last Modified Time: 22:52:56
+    Reference Height Units: Feet
+    Reference Height: 32
+    Gage Type: Precipitation
+    Precipitation Type: Incremental
+    Units: IN
+    Data Type: PER-CUM
+    Data Source Type: External DSS
+    Variant: Variant-0
+        Last Variant Modified Date: 8 October 2020
+        Last Variant Modified Time: 21:27:17
+        Default Variant: Yes
+        DSS File Name: Harvey_Metvue_Hyet.dss
+        DSS Pathname: //DB10502_02/PRECIP-INC/01AUG2017/1HOUR//
+        Start Time: 23 August 2017, 00:15
+        End Time: 5 September 2017, 00:00
+    End Variant: Variant-0
+End:
+        
+Gage: DB107_04_August_2017_NWS
+    Last Modified Date: 19 May 2021
+    Last Modified Time: 22:52:56
+    Reference Height Units: Feet
+    Reference Height: 32
+    Gage Type: Precipitation
+    Precipitation Type: Incremental
+    Units: IN
+    Data Type: PER-CUM
+    Data Source Type: External DSS
+    Variant: Variant-0
+        Last Variant Modified Date: 8 October 2020
+        Last Variant Modified Time: 21:27:17
+        Default Variant: Yes
+        DSS File Name: Harvey_Metvue_Hyet.dss
+        DSS Pathname: //DB107_04/PRECIP-INC/01AUG2017/1HOUR//
+        Start Time: 23 August 2017, 00:15
+        End Time: 5 September 2017, 00:00
+    End Variant: Variant-0
+End:
+        
+Gage: DB102_01_August_2017_NWS
+    Last Modified Date: 19 May 2021
+    Last Modified Time: 22:52:56
+    Reference Height Units: Feet
+    Reference Height: 32
+    Gage Type: Precipitation
+    Precipitation Type: Incremental
+    Units: IN
+    Data Type: PER-CUM
+    Data Source Type: External DSS
+    Variant: Variant-0
+        Last Variant Modified Date: 8 October 2020
+        Last Variant Modified Time: 21:27:17
+        Default Variant: Yes
+        DSS File Name: Harvey_Metvue_Hyet.dss
+        DSS Pathname: //DB102_01/PRECIP-INC/01AUG2017/1HOUR//
+        Start Time: 23 August 2017, 00:15
+        End Time: 5 September 2017, 00:00
+    End Variant: Variant-0
+End:
+        
+Gage: DB106_02_August_2017_NWS
+    Last Modified Date: 19 May 2021
+    Last Modified Time: 22:52:56
+    Reference Height Units: Feet
+    Reference Height: 32
+    Gage Type: Precipitation
+    Precipitation Type: Incremental
+    Units: IN
+    Data Type: PER-CUM
+    Data Source Type: External DSS
+    Variant: Variant-0
+        Last Variant Modified Date: 8 October 2020
+        Last Variant Modified Time: 21:27:17
+        Default Variant: Yes
+        DSS File Name: Harvey_Metvue_Hyet.dss
+        DSS Pathname: //DB106_02/PRECIP-INC/01AUG2017/1HOUR//
+        Start Time: 23 August 2017, 00:15
+        End Time: 5 September 2017, 00:00
+    End Variant: Variant-0
+End:
+        
+Gage: DB113_06_August_2017_NWS
+    Last Modified Date: 19 May 2021
+    Last Modified Time: 22:52:56
+    Reference Height Units: Feet
+    Reference Height: 32
+    Gage Type: Precipitation
+    Precipitation Type: Incremental
+    Units: IN
+    Data Type: PER-CUM
+    Data Source Type: External DSS
+    Variant: Variant-0
+        Last Variant Modified Date: 8 October 2020
+        Last Variant Modified Time: 21:27:17
+        Default Variant: Yes
+        DSS File Name: Harvey_Metvue_Hyet.dss
+        DSS Pathname: //DB113_06/PRECIP-INC/01AUG2017/1HOUR//
+        Start Time: 23 August 2017, 00:15
+        End Time: 5 September 2017, 00:00
+    End Variant: Variant-0
+End:
+        
+Gage: DB100_01_August_2017_NWS
+    Last Modified Date: 19 May 2021
+    Last Modified Time: 22:52:56
+    Reference Height Units: Feet
+    Reference Height: 32
+    Gage Type: Precipitation
+    Precipitation Type: Incremental
+    Units: IN
+    Data Type: PER-CUM
+    Data Source Type: External DSS
+    Variant: Variant-0
+        Last Variant Modified Date: 8 October 2020
+        Last Variant Modified Time: 21:27:17
+        Default Variant: Yes
+        DSS File Name: Harvey_Metvue_Hyet.dss
+        DSS Pathname: //DB100_01/PRECIP-INC/01AUG2017/1HOUR//
+        Start Time: 23 August 2017, 00:15
+        End Time: 5 September 2017, 00:00
+    End Variant: Variant-0
+End:
+        
+Gage: DB107_02_August_2017_NWS
+    Last Modified Date: 19 May 2021
+    Last Modified Time: 22:52:56
+    Reference Height Units: Feet
+    Reference Height: 32
+    Gage Type: Precipitation
+    Precipitation Type: Incremental
+    Units: IN
+    Data Type: PER-CUM
+    Data Source Type: External DSS
+    Variant: Variant-0
+        Last Variant Modified Date: 8 October 2020
+        Last Variant Modified Time: 21:27:17
+        Default Variant: Yes
+        DSS File Name: Harvey_Metvue_Hyet.dss
+        DSS Pathname: //DB107_02/PRECIP-INC/01AUG2017/1HOUR//
+        Start Time: 23 August 2017, 00:15
+        End Time: 5 September 2017, 00:00
+    End Variant: Variant-0
+End:
+        
+Gage: GB100_05_August_2017_NWS
+    Last Modified Date: 19 May 2021
+    Last Modified Time: 22:52:56
+    Reference Height Units: Feet
+    Reference Height: 32
+    Gage Type: Precipitation
+    Precipitation Type: Incremental
+    Units: IN
+    Data Type: PER-CUM
+    Data Source Type: External DSS
+    Variant: Variant-0
+        Last Variant Modified Date: 8 October 2020
+        Last Variant Modified Time: 21:27:17
+        Default Variant: Yes
+        DSS File Name: Harvey_Metvue_Hyet.dss
+        DSS Pathname: //GB100_05/PRECIP-INC/01AUG2017/1HOUR//
+        Start Time: 23 August 2017, 00:15
+        End Time: 5 September 2017, 00:00
+    End Variant: Variant-0
+End:
+        
+Gage: DB107_05_August_2017_NWS
+    Last Modified Date: 19 May 2021
+    Last Modified Time: 22:52:56
+    Reference Height Units: Feet
+    Reference Height: 32
+    Gage Type: Precipitation
+    Precipitation Type: Incremental
+    Units: IN
+    Data Type: PER-CUM
+    Data Source Type: External DSS
+    Variant: Variant-0
+        Last Variant Modified Date: 8 October 2020
+        Last Variant Modified Time: 21:27:17
+        Default Variant: Yes
+        DSS File Name: Harvey_Metvue_Hyet.dss
+        DSS Pathname: //DB107_05/PRECIP-INC/01AUG2017/1HOUR//
+        Start Time: 23 August 2017, 00:15
+        End Time: 5 September 2017, 00:00
+    End Variant: Variant-0
+End:
+        
+Gage: DB103_02_August_2017_NWS
+    Last Modified Date: 19 May 2021
+    Last Modified Time: 22:52:56
+    Reference Height Units: Feet
+    Reference Height: 32
+    Gage Type: Precipitation
+    Precipitation Type: Incremental
+    Units: IN
+    Data Type: PER-CUM
+    Data Source Type: External DSS
+    Variant: Variant-0
+        Last Variant Modified Date: 8 October 2020
+        Last Variant Modified Time: 21:27:17
+        Default Variant: Yes
+        DSS File Name: Harvey_Metvue_Hyet.dss
+        DSS Pathname: //DB103_02/PRECIP-INC/01AUG2017/1HOUR//
+        Start Time: 23 August 2017, 00:15
+        End Time: 5 September 2017, 00:00
+    End Variant: Variant-0
+End:
+        
+Gage: DB105_01_August_2017_NWS
+    Last Modified Date: 19 May 2021
+    Last Modified Time: 22:52:56
+    Reference Height Units: Feet
+    Reference Height: 32
+    Gage Type: Precipitation
+    Precipitation Type: Incremental
+    Units: IN
+    Data Type: PER-CUM
+    Data Source Type: External DSS
+    Variant: Variant-0
+        Last Variant Modified Date: 8 October 2020
+        Last Variant Modified Time: 21:27:17
+        Default Variant: Yes
+        DSS File Name: Harvey_Metvue_Hyet.dss
+        DSS Pathname: //DB105_01/PRECIP-INC/01AUG2017/1HOUR//
+        Start Time: 23 August 2017, 00:15
+        End Time: 5 September 2017, 00:00
+    End Variant: Variant-0
+End:
+        
+Gage: DB109_02_August_2017_NWS
+    Last Modified Date: 19 May 2021
+    Last Modified Time: 22:52:56
+    Reference Height Units: Feet
+    Reference Height: 32
+    Gage Type: Precipitation
+    Precipitation Type: Incremental
+    Units: IN
+    Data Type: PER-CUM
+    Data Source Type: External DSS
+    Variant: Variant-0
+        Last Variant Modified Date: 8 October 2020
+        Last Variant Modified Time: 21:27:17
+        Default Variant: Yes
+        DSS File Name: Harvey_Metvue_Hyet.dss
+        DSS Pathname: //DB109_02/PRECIP-INC/01AUG2017/1HOUR//
+        Start Time: 23 August 2017, 00:15
+        End Time: 5 September 2017, 00:00
+    End Variant: Variant-0
+End:
+        
+Gage: GB100_01_August_2017_NWS
+    Last Modified Date: 19 May 2021
+    Last Modified Time: 22:52:56
+    Reference Height Units: Feet
+    Reference Height: 32
+    Gage Type: Precipitation
+    Precipitation Type: Incremental
+    Units: IN
+    Data Type: PER-CUM
+    Data Source Type: External DSS
+    Variant: Variant-0
+        Last Variant Modified Date: 8 October 2020
+        Last Variant Modified Time: 21:27:17
+        Default Variant: Yes
+        DSS File Name: Harvey_Metvue_Hyet.dss
+        DSS Pathname: //GB100_01/PRECIP-INC/01AUG2017/1HOUR//
+        Start Time: 23 August 2017, 00:15
+        End Time: 5 September 2017, 00:00
+    End Variant: Variant-0
+End:
+        
+Gage: DB10901_02_August_2017_NWS
+    Last Modified Date: 19 May 2021
+    Last Modified Time: 22:52:56
+    Reference Height Units: Feet
+    Reference Height: 32
+    Gage Type: Precipitation
+    Precipitation Type: Incremental
+    Units: IN
+    Data Type: PER-CUM
+    Data Source Type: External DSS
+    Variant: Variant-0
+        Last Variant Modified Date: 8 October 2020
+        Last Variant Modified Time: 21:27:17
+        Default Variant: Yes
+        DSS File Name: Harvey_Metvue_Hyet.dss
+        DSS Pathname: //DB10901_02/PRECIP-INC/01AUG2017/1HOUR//
+        Start Time: 23 August 2017, 00:15
+        End Time: 5 September 2017, 00:00
+    End Variant: Variant-0
+End:
+        
+Gage: DB100_08_August_2017_NWS
+    Last Modified Date: 19 May 2021
+    Last Modified Time: 22:52:56
+    Reference Height Units: Feet
+    Reference Height: 32
+    Gage Type: Precipitation
+    Precipitation Type: Incremental
+    Units: IN
+    Data Type: PER-CUM
+    Data Source Type: External DSS
+    Variant: Variant-0
+        Last Variant Modified Date: 8 October 2020
+        Last Variant Modified Time: 21:27:17
+        Default Variant: Yes
+        DSS File Name: Harvey_Metvue_Hyet.dss
+        DSS Pathname: //DB100_08/PRECIP-INC/01AUG2017/1HOUR//
+        Start Time: 23 August 2017, 00:15
+        End Time: 5 September 2017, 00:00
+    End Variant: Variant-0
+End:
+        
+Gage: DB112_02_August_2017_NWS
+    Last Modified Date: 19 May 2021
+    Last Modified Time: 22:52:56
+    Reference Height Units: Feet
+    Reference Height: 32
+    Gage Type: Precipitation
+    Precipitation Type: Incremental
+    Units: IN
+    Data Type: PER-CUM
+    Data Source Type: External DSS
+    Variant: Variant-0
+        Last Variant Modified Date: 8 October 2020
+        Last Variant Modified Time: 21:27:17
+        Default Variant: Yes
+        DSS File Name: Harvey_Metvue_Hyet.dss
+        DSS Pathname: //DB112_02/PRECIP-INC/01AUG2017/1HOUR//
+        Start Time: 23 August 2017, 00:15
+        End Time: 5 September 2017, 00:00
+    End Variant: Variant-0
+End:
+        
+Gage: DB113_04_August_2017_NWS
+    Last Modified Date: 19 May 2021
+    Last Modified Time: 22:52:56
+    Reference Height Units: Feet
+    Reference Height: 32
+    Gage Type: Precipitation
+    Precipitation Type: Incremental
+    Units: IN
+    Data Type: PER-CUM
+    Data Source Type: External DSS
+    Variant: Variant-0
+        Last Variant Modified Date: 8 October 2020
+        Last Variant Modified Time: 21:27:17
+        Default Variant: Yes
+        DSS File Name: Harvey_Metvue_Hyet.dss
+        DSS Pathname: //DB113_04/PRECIP-INC/01AUG2017/1HOUR//
+        Start Time: 23 August 2017, 00:15
+        End Time: 5 September 2017, 00:00
+    End Variant: Variant-0
+End:
+        
+Gage: DB100_11_August_2017_NWS
+    Last Modified Date: 19 May 2021
+    Last Modified Time: 22:52:56
+    Reference Height Units: Feet
+    Reference Height: 32
+    Gage Type: Precipitation
+    Precipitation Type: Incremental
+    Units: IN
+    Data Type: PER-CUM
+    Data Source Type: External DSS
+    Variant: Variant-0
+        Last Variant Modified Date: 8 October 2020
+        Last Variant Modified Time: 21:27:17
+        Default Variant: Yes
+        DSS File Name: Harvey_Metvue_Hyet.dss
+        DSS Pathname: //DB100_11/PRECIP-INC/01AUG2017/1HOUR//
+        Start Time: 23 August 2017, 00:15
+        End Time: 5 September 2017, 00:00
+    End Variant: Variant-0
+End:
+        
+Gage: DB11201_02_August_2017_NWS
+    Last Modified Date: 19 May 2021
+    Last Modified Time: 22:52:56
+    Reference Height Units: Feet
+    Reference Height: 32
+    Gage Type: Precipitation
+    Precipitation Type: Incremental
+    Units: IN
+    Data Type: PER-CUM
+    Data Source Type: External DSS
+    Variant: Variant-0
+        Last Variant Modified Date: 8 October 2020
+        Last Variant Modified Time: 21:27:17
+        Default Variant: Yes
+        DSS File Name: Harvey_Metvue_Hyet.dss
+        DSS Pathname: //DB11201_02/PRECIP-INC/01AUG2017/1HOUR//
+        Start Time: 23 August 2017, 00:15
+        End Time: 5 September 2017, 00:00
+    End Variant: Variant-0
+End:
+        
+Gage: MB100_01_August_2017_NWS
+    Last Modified Date: 19 May 2021
+    Last Modified Time: 22:52:56
+    Reference Height Units: Feet
+    Reference Height: 32
+    Gage Type: Precipitation
+    Precipitation Type: Incremental
+    Units: IN
+    Data Type: PER-CUM
+    Data Source Type: External DSS
+    Variant: Variant-0
+        Last Variant Modified Date: 8 October 2020
+        Last Variant Modified Time: 21:27:17
+        Default Variant: Yes
+        DSS File Name: Harvey_Metvue_Hyet.dss
+        DSS Pathname: //MB100_01/PRECIP-INC/01AUG2017/1HOUR//
+        Start Time: 23 August 2017, 00:15
+        End Time: 5 September 2017, 00:00
+    End Variant: Variant-0
+End:
+        
+Gage: BB100_01_August_2017_NWS
+    Last Modified Date: 19 May 2021
+    Last Modified Time: 22:52:56
+    Reference Height Units: Feet
+    Reference Height: 32
+    Gage Type: Precipitation
+    Precipitation Type: Incremental
+    Units: IN
+    Data Type: PER-CUM
+    Data Source Type: External DSS
+    Variant: Variant-0
+        Last Variant Modified Date: 8 October 2020
+        Last Variant Modified Time: 21:27:17
+        Default Variant: Yes
+        DSS File Name: Harvey_Metvue_Hyet.dss
+        DSS Pathname: //BB100_01/PRECIP-INC/01AUG2017/1HOUR//
+        Start Time: 23 August 2017, 00:15
+        End Time: 5 September 2017, 00:00
+    End Variant: Variant-0
+End:
+        
+Gage: MB100_02_August_2017_NWS
+    Last Modified Date: 19 May 2021
+    Last Modified Time: 22:52:56
+    Reference Height Units: Feet
+    Reference Height: 32
+    Gage Type: Precipitation
+    Precipitation Type: Incremental
+    Units: IN
+    Data Type: PER-CUM
+    Data Source Type: External DSS
+    Variant: Variant-0
+        Last Variant Modified Date: 8 October 2020
+        Last Variant Modified Time: 21:27:17
+        Default Variant: Yes
+        DSS File Name: Harvey_Metvue_Hyet.dss
+        DSS Pathname: //MB100_02/PRECIP-INC/01AUG2017/1HOUR//
+        Start Time: 23 August 2017, 00:15
+        End Time: 5 September 2017, 00:00
+    End Variant: Variant-0
+End:
+        
+Gage: DB100_07_August_2017_NWS
+    Last Modified Date: 19 May 2021
+    Last Modified Time: 22:52:56
+    Reference Height Units: Feet
+    Reference Height: 32
+    Gage Type: Precipitation
+    Precipitation Type: Incremental
+    Units: IN
+    Data Type: PER-CUM
+    Data Source Type: External DSS
+    Variant: Variant-0
+        Last Variant Modified Date: 8 October 2020
+        Last Variant Modified Time: 21:27:17
+        Default Variant: Yes
+        DSS File Name: Harvey_Metvue_Hyet.dss
+        DSS Pathname: //DB100_07/PRECIP-INC/01AUG2017/1HOUR//
+        Start Time: 23 August 2017, 00:15
+        End Time: 5 September 2017, 00:00
+    End Variant: Variant-0
+End:
+        
+Gage: DB105_02_August_2017_NWS
+    Last Modified Date: 19 May 2021
+    Last Modified Time: 22:52:56
+    Reference Height Units: Feet
+    Reference Height: 32
+    Gage Type: Precipitation
+    Precipitation Type: Incremental
+    Units: IN
+    Data Type: PER-CUM
+    Data Source Type: External DSS
+    Variant: Variant-0
+        Last Variant Modified Date: 8 October 2020
+        Last Variant Modified Time: 21:27:17
+        Default Variant: Yes
+        DSS File Name: Harvey_Metvue_Hyet.dss
+        DSS Pathname: //DB105_02/PRECIP-INC/01AUG2017/1HOUR//
+        Start Time: 23 August 2017, 00:15
+        End Time: 5 September 2017, 00:00
+    End Variant: Variant-0
+End:
+        
+Gage: DB115_01_August_2017_NWS
+    Last Modified Date: 19 May 2021
+    Last Modified Time: 22:52:56
+    Reference Height Units: Feet
+    Reference Height: 32
+    Gage Type: Precipitation
+    Precipitation Type: Incremental
+    Units: IN
+    Data Type: PER-CUM
+    Data Source Type: External DSS
+    Variant: Variant-0
+        Last Variant Modified Date: 8 October 2020
+        Last Variant Modified Time: 21:27:17
+        Default Variant: Yes
+        DSS File Name: Harvey_Metvue_Hyet.dss
+        DSS Pathname: //DB115_01/PRECIP-INC/01AUG2017/1HOUR//
+        Start Time: 23 August 2017, 00:15
+        End Time: 5 September 2017, 00:00
+    End Variant: Variant-0
+End:
+        
+Gage: DB100_06_August_2017_NWS
+    Last Modified Date: 19 May 2021
+    Last Modified Time: 22:52:56
+    Reference Height Units: Feet
+    Reference Height: 32
+    Gage Type: Precipitation
+    Precipitation Type: Incremental
+    Units: IN
+    Data Type: PER-CUM
+    Data Source Type: External DSS
+    Variant: Variant-0
+        Last Variant Modified Date: 8 October 2020
+        Last Variant Modified Time: 21:27:17
+        Default Variant: Yes
+        DSS File Name: Harvey_Metvue_Hyet.dss
+        DSS Pathname: //DB100_06/PRECIP-INC/01AUG2017/1HOUR//
+        Start Time: 23 August 2017, 00:15
+        End Time: 5 September 2017, 00:00
+    End Variant: Variant-0
+End:
+        
+Gage: DB108_03_August_2017_NWS
+    Last Modified Date: 19 May 2021
+    Last Modified Time: 22:52:56
+    Reference Height Units: Feet
+    Reference Height: 32
+    Gage Type: Precipitation
+    Precipitation Type: Incremental
+    Units: IN
+    Data Type: PER-CUM
+    Data Source Type: External DSS
+    Variant: Variant-0
+        Last Variant Modified Date: 8 October 2020
+        Last Variant Modified Time: 21:27:17
+        Default Variant: Yes
+        DSS File Name: Harvey_Metvue_Hyet.dss
+        DSS Pathname: //DB108_03/PRECIP-INC/01AUG2017/1HOUR//
+        Start Time: 23 August 2017, 00:15
+        End Time: 5 September 2017, 00:00
+    End Variant: Variant-0
+End:
+        
+Gage: DB113_03_August_2017_NWS
+    Last Modified Date: 19 May 2021
+    Last Modified Time: 22:52:56
+    Reference Height Units: Feet
+    Reference Height: 32
+    Gage Type: Precipitation
+    Precipitation Type: Incremental
+    Units: IN
+    Data Type: PER-CUM
+    Data Source Type: External DSS
+    Variant: Variant-0
+        Last Variant Modified Date: 8 October 2020
+        Last Variant Modified Time: 21:27:17
+        Default Variant: Yes
+        DSS File Name: Harvey_Metvue_Hyet.dss
+        DSS Pathname: //DB113_03/PRECIP-INC/01AUG2017/1HOUR//
+        Start Time: 23 August 2017, 00:15
+        End Time: 5 September 2017, 00:00
+    End Variant: Variant-0
+End:
+        
+Gage: DB100_09_August_2017_NWS
+    Last Modified Date: 19 May 2021
+    Last Modified Time: 22:52:56
+    Reference Height Units: Feet
+    Reference Height: 32
+    Gage Type: Precipitation
+    Precipitation Type: Incremental
+    Units: IN
+    Data Type: PER-CUM
+    Data Source Type: External DSS
+    Variant: Variant-0
+        Last Variant Modified Date: 8 October 2020
+        Last Variant Modified Time: 21:27:17
+        Default Variant: Yes
+        DSS File Name: Harvey_Metvue_Hyet.dss
+        DSS Pathname: //DB100_09/PRECIP-INC/01AUG2017/1HOUR//
+        Start Time: 23 August 2017, 00:15
+        End Time: 5 September 2017, 00:00
+    End Variant: Variant-0
+End:
+        
+Gage: GB100_06_August_2017_NWS
+    Last Modified Date: 19 May 2021
+    Last Modified Time: 22:52:56
+    Reference Height Units: Feet
+    Reference Height: 32
+    Gage Type: Precipitation
+    Precipitation Type: Incremental
+    Units: IN
+    Data Type: PER-CUM
+    Data Source Type: External DSS
+    Variant: Variant-0
+        Last Variant Modified Date: 8 October 2020
+        Last Variant Modified Time: 21:27:17
+        Default Variant: Yes
+        DSS File Name: Harvey_Metvue_Hyet.dss
+        DSS Pathname: //GB100_06/PRECIP-INC/01AUG2017/1HOUR//
+        Start Time: 23 August 2017, 00:15
+        End Time: 5 September 2017, 00:00
+    End Variant: Variant-0
+End:
+        
+Gage: DB111_01_August_2017_NWS
+    Last Modified Date: 19 May 2021
+    Last Modified Time: 22:52:56
+    Reference Height Units: Feet
+    Reference Height: 32
+    Gage Type: Precipitation
+    Precipitation Type: Incremental
+    Units: IN
+    Data Type: PER-CUM
+    Data Source Type: External DSS
+    Variant: Variant-0
+        Last Variant Modified Date: 8 October 2020
+        Last Variant Modified Time: 21:27:17
+        Default Variant: Yes
+        DSS File Name: Harvey_Metvue_Hyet.dss
+        DSS Pathname: //DB111_01/PRECIP-INC/01AUG2017/1HOUR//
+        Start Time: 23 August 2017, 00:15
+        End Time: 5 September 2017, 00:00
+    End Variant: Variant-0
+End:
+        
+Gage: DB10501_01_August_2017_NWS
+    Last Modified Date: 19 May 2021
+    Last Modified Time: 22:52:56
+    Reference Height Units: Feet
+    Reference Height: 32
+    Gage Type: Precipitation
+    Precipitation Type: Incremental
+    Units: IN
+    Data Type: PER-CUM
+    Data Source Type: External DSS
+    Variant: Variant-0
+        Last Variant Modified Date: 8 October 2020
+        Last Variant Modified Time: 21:27:17
+        Default Variant: Yes
+        DSS File Name: Harvey_Metvue_Hyet.dss
+        DSS Pathname: //DB10501_01/PRECIP-INC/01AUG2017/1HOUR//
+        Start Time: 23 August 2017, 00:15
+        End Time: 5 September 2017, 00:00
+    End Variant: Variant-0
+End:
+        
+Gage: BB10002_01_August_2017_NWS
+    Last Modified Date: 19 May 2021
+    Last Modified Time: 22:52:56
+    Reference Height Units: Feet
+    Reference Height: 32
+    Gage Type: Precipitation
+    Precipitation Type: Incremental
+    Units: IN
+    Data Type: PER-CUM
+    Data Source Type: External DSS
+    Variant: Variant-0
+        Last Variant Modified Date: 8 October 2020
+        Last Variant Modified Time: 21:27:17
+        Default Variant: Yes
+        DSS File Name: Harvey_Metvue_Hyet.dss
+        DSS Pathname: //BB10002_01/PRECIP-INC/01AUG2017/1HOUR//
+        Start Time: 23 August 2017, 00:15
+        End Time: 5 September 2017, 00:00
+    End Variant: Variant-0
+End:
+        
+Gage: DB115_02_August_2017_NWS
+    Last Modified Date: 19 May 2021
+    Last Modified Time: 22:52:56
+    Reference Height Units: Feet
+    Reference Height: 32
+    Gage Type: Precipitation
+    Precipitation Type: Incremental
+    Units: IN
+    Data Type: PER-CUM
+    Data Source Type: External DSS
+    Variant: Variant-0
+        Last Variant Modified Date: 8 October 2020
+        Last Variant Modified Time: 21:27:17
+        Default Variant: Yes
+        DSS File Name: Harvey_Metvue_Hyet.dss
+        DSS Pathname: //DB115_02/PRECIP-INC/01AUG2017/1HOUR//
+        Start Time: 23 August 2017, 00:15
+        End Time: 5 September 2017, 00:00
+    End Variant: Variant-0
+End:
+        
+Gage: DB10201_01_August_2017_NWS
+    Last Modified Date: 19 May 2021
+    Last Modified Time: 22:52:56
+    Reference Height Units: Feet
+    Reference Height: 32
+    Gage Type: Precipitation
+    Precipitation Type: Incremental
+    Units: IN
+    Data Type: PER-CUM
+    Data Source Type: External DSS
+    Variant: Variant-0
+        Last Variant Modified Date: 8 October 2020
+        Last Variant Modified Time: 21:27:17
+        Default Variant: Yes
+        DSS File Name: Harvey_Metvue_Hyet.dss
+        DSS Pathname: //DB10201_01/PRECIP-INC/01AUG2017/1HOUR//
+        Start Time: 23 August 2017, 00:15
+        End Time: 5 September 2017, 00:00
+    End Variant: Variant-0
+End:
+        
+Gage: DB100_10_August_2017_NWS
+    Last Modified Date: 19 May 2021
+    Last Modified Time: 22:52:56
+    Reference Height Units: Feet
+    Reference Height: 32
+    Gage Type: Precipitation
+    Precipitation Type: Incremental
+    Units: IN
+    Data Type: PER-CUM
+    Data Source Type: External DSS
+    Variant: Variant-0
+        Last Variant Modified Date: 8 October 2020
+        Last Variant Modified Time: 21:27:17
+        Default Variant: Yes
+        DSS File Name: Harvey_Metvue_Hyet.dss
+        DSS Pathname: //DB100_10/PRECIP-INC/01AUG2017/1HOUR//
+        Start Time: 23 August 2017, 00:15
+        End Time: 5 September 2017, 00:00
+    End Variant: Variant-0
+End:
+        
+Gage: GB100_04_August_2017_NWS
+    Last Modified Date: 19 May 2021
+    Last Modified Time: 22:52:56
+    Reference Height Units: Feet
+    Reference Height: 32
+    Gage Type: Precipitation
+    Precipitation Type: Incremental
+    Units: IN
+    Data Type: PER-CUM
+    Data Source Type: External DSS
+    Variant: Variant-0
+        Last Variant Modified Date: 8 October 2020
+        Last Variant Modified Time: 21:27:17
+        Default Variant: Yes
+        DSS File Name: Harvey_Metvue_Hyet.dss
+        DSS Pathname: //GB100_04/PRECIP-INC/01AUG2017/1HOUR//
+        Start Time: 23 August 2017, 00:15
+        End Time: 5 September 2017, 00:00
+    End Variant: Variant-0
+End:
+        
+Gage: DB11201_01_August_2017_NWS
+    Last Modified Date: 19 May 2021
+    Last Modified Time: 22:52:56
+    Reference Height Units: Feet
+    Reference Height: 32
+    Gage Type: Precipitation
+    Precipitation Type: Incremental
+    Units: IN
+    Data Type: PER-CUM
+    Data Source Type: External DSS
+    Variant: Variant-0
+        Last Variant Modified Date: 8 October 2020
+        Last Variant Modified Time: 21:27:17
+        Default Variant: Yes
+        DSS File Name: Harvey_Metvue_Hyet.dss
+        DSS Pathname: //DB11201_01/PRECIP-INC/01AUG2017/1HOUR//
+        Start Time: 23 August 2017, 00:15
+        End Time: 5 September 2017, 00:00
+    End Variant: Variant-0
+End:
+        
+Gage: DB113_02_August_2017_NWS
+    Last Modified Date: 19 May 2021
+    Last Modified Time: 22:52:56
+    Reference Height Units: Feet
+    Reference Height: 32
+    Gage Type: Precipitation
+    Precipitation Type: Incremental
+    Units: IN
+    Data Type: PER-CUM
+    Data Source Type: External DSS
+    Variant: Variant-0
+        Last Variant Modified Date: 8 October 2020
+        Last Variant Modified Time: 21:27:17
+        Default Variant: Yes
+        DSS File Name: Harvey_Metvue_Hyet.dss
+        DSS Pathname: //DB113_02/PRECIP-INC/01AUG2017/1HOUR//
+        Start Time: 23 August 2017, 00:15
+        End Time: 5 September 2017, 00:00
+    End Variant: Variant-0
+End:
+        
+Gage: DB107_03_August_2017_NWS
+    Last Modified Date: 19 May 2021
+    Last Modified Time: 22:52:56
+    Reference Height Units: Feet
+    Reference Height: 32
+    Gage Type: Precipitation
+    Precipitation Type: Incremental
+    Units: IN
+    Data Type: PER-CUM
+    Data Source Type: External DSS
+    Variant: Variant-0
+        Last Variant Modified Date: 8 October 2020
+        Last Variant Modified Time: 21:27:17
+        Default Variant: Yes
+        DSS File Name: Harvey_Metvue_Hyet.dss
+        DSS Pathname: //DB107_03/PRECIP-INC/01AUG2017/1HOUR//
+        Start Time: 23 August 2017, 00:15
+        End Time: 5 September 2017, 00:00
+    End Variant: Variant-0
+End:
+        
+Gage: DB10502_01_August_2017_NWS
+    Last Modified Date: 19 May 2021
+    Last Modified Time: 22:52:56
+    Reference Height Units: Feet
+    Reference Height: 32
+    Gage Type: Precipitation
+    Precipitation Type: Incremental
+    Units: IN
+    Data Type: PER-CUM
+    Data Source Type: External DSS
+    Variant: Variant-0
+        Last Variant Modified Date: 8 October 2020
+        Last Variant Modified Time: 21:27:17
+        Default Variant: Yes
+        DSS File Name: Harvey_Metvue_Hyet.dss
+        DSS Pathname: //DB10502_01/PRECIP-INC/01AUG2017/1HOUR//
+        Start Time: 23 August 2017, 00:15
+        End Time: 5 September 2017, 00:00
+    End Variant: Variant-0
+End:
+        
+Gage: GB100_02_August_2017_NWS
+    Last Modified Date: 19 May 2021
+    Last Modified Time: 22:52:56
+    Reference Height Units: Feet
+    Reference Height: 32
+    Gage Type: Precipitation
+    Precipitation Type: Incremental
+    Units: IN
+    Data Type: PER-CUM
+    Data Source Type: External DSS
+    Variant: Variant-0
+        Last Variant Modified Date: 8 October 2020
+        Last Variant Modified Time: 21:27:17
+        Default Variant: Yes
+        DSS File Name: Harvey_Metvue_Hyet.dss
+        DSS Pathname: //GB100_02/PRECIP-INC/01AUG2017/1HOUR//
+        Start Time: 23 August 2017, 00:15
+        End Time: 5 September 2017, 00:00
+    End Variant: Variant-0
+End:
+        
+Gage: DB105_03_August_2017_NWS
+    Last Modified Date: 19 May 2021
+    Last Modified Time: 22:52:56
+    Reference Height Units: Feet
+    Reference Height: 32
+    Gage Type: Precipitation
+    Precipitation Type: Incremental
+    Units: IN
+    Data Type: PER-CUM
+    Data Source Type: External DSS
+    Variant: Variant-0
+        Last Variant Modified Date: 8 October 2020
+        Last Variant Modified Time: 21:27:17
+        Default Variant: Yes
+        DSS File Name: Harvey_Metvue_Hyet.dss
+        DSS Pathname: //DB105_03/PRECIP-INC/01AUG2017/1HOUR//
+        Start Time: 23 August 2017, 00:15
+        End Time: 5 September 2017, 00:00
+    End Variant: Variant-0
+End:
+        
+Gage: DB113_05_August_2017_NWS
+    Last Modified Date: 19 May 2021
+    Last Modified Time: 22:52:56
+    Reference Height Units: Feet
+    Reference Height: 32
+    Gage Type: Precipitation
+    Precipitation Type: Incremental
+    Units: IN
+    Data Type: PER-CUM
+    Data Source Type: External DSS
+    Variant: Variant-0
+        Last Variant Modified Date: 8 October 2020
+        Last Variant Modified Time: 21:27:17
+        Default Variant: Yes
+        DSS File Name: Harvey_Metvue_Hyet.dss
+        DSS Pathname: //DB113_05/PRECIP-INC/01AUG2017/1HOUR//
+        Start Time: 23 August 2017, 00:15
+        End Time: 5 September 2017, 00:00
+    End Variant: Variant-0
+End:
+        
+Gage: DB113_01_August_2017_NWS
+    Last Modified Date: 19 May 2021
+    Last Modified Time: 22:52:56
+    Reference Height Units: Feet
+    Reference Height: 32
+    Gage Type: Precipitation
+    Precipitation Type: Incremental
+    Units: IN
+    Data Type: PER-CUM
+    Data Source Type: External DSS
+    Variant: Variant-0
+        Last Variant Modified Date: 8 October 2020
+        Last Variant Modified Time: 21:27:17
+        Default Variant: Yes
+        DSS File Name: Harvey_Metvue_Hyet.dss
+        DSS Pathname: //DB113_01/PRECIP-INC/01AUG2017/1HOUR//
+        Start Time: 23 August 2017, 00:15
+        End Time: 5 September 2017, 00:00
+    End Variant: Variant-0
+End:
+        
+Gage: DB110_01_August_2017_NWS
+    Last Modified Date: 19 May 2021
+    Last Modified Time: 22:52:56
+    Reference Height Units: Feet
+    Reference Height: 32
+    Gage Type: Precipitation
+    Precipitation Type: Incremental
+    Units: IN
+    Data Type: PER-CUM
+    Data Source Type: External DSS
+    Variant: Variant-0
+        Last Variant Modified Date: 8 October 2020
+        Last Variant Modified Time: 21:27:17
+        Default Variant: Yes
+        DSS File Name: Harvey_Metvue_Hyet.dss
+        DSS Pathname: //DB110_01/PRECIP-INC/01AUG2017/1HOUR//
+        Start Time: 23 August 2017, 00:15
+        End Time: 5 September 2017, 00:00
+    End Variant: Variant-0
+End:
+        
+Gage: DB100_03_August_2017_NWS
+    Last Modified Date: 19 May 2021
+    Last Modified Time: 22:52:56
+    Reference Height Units: Feet
+    Reference Height: 32
+    Gage Type: Precipitation
+    Precipitation Type: Incremental
+    Units: IN
+    Data Type: PER-CUM
+    Data Source Type: External DSS
+    Variant: Variant-0
+        Last Variant Modified Date: 8 October 2020
+        Last Variant Modified Time: 21:27:17
+        Default Variant: Yes
+        DSS File Name: Harvey_Metvue_Hyet.dss
+        DSS Pathname: //DB100_03/PRECIP-INC/01AUG2017/1HOUR//
+        Start Time: 23 August 2017, 00:15
+        End Time: 5 September 2017, 00:00
+    End Variant: Variant-0
+End:
+        
+Gage: DB10901_01_August_2017_NWS
+    Last Modified Date: 19 May 2021
+    Last Modified Time: 22:52:56
+    Reference Height Units: Feet
+    Reference Height: 32
+    Gage Type: Precipitation
+    Precipitation Type: Incremental
+    Units: IN
+    Data Type: PER-CUM
+    Data Source Type: External DSS
+    Variant: Variant-0
+        Last Variant Modified Date: 8 October 2020
+        Last Variant Modified Time: 21:27:17
+        Default Variant: Yes
+        DSS File Name: Harvey_Metvue_Hyet.dss
+        DSS Pathname: //DB10901_01/PRECIP-INC/01AUG2017/1HOUR//
+        Start Time: 23 August 2017, 00:15
+        End Time: 5 September 2017, 00:00
+    End Variant: Variant-0
+End:
+        
+Gage: DB103_01_August_2017_NWS
+    Last Modified Date: 19 May 2021
+    Last Modified Time: 22:52:56
+    Reference Height Units: Feet
+    Reference Height: 32
+    Gage Type: Precipitation
+    Precipitation Type: Incremental
+    Units: IN
+    Data Type: PER-CUM
+    Data Source Type: External DSS
+    Variant: Variant-0
+        Last Variant Modified Date: 8 October 2020
+        Last Variant Modified Time: 21:27:17
+        Default Variant: Yes
+        DSS File Name: Harvey_Metvue_Hyet.dss
+        DSS Pathname: //DB103_01/PRECIP-INC/01AUG2017/1HOUR//
+        Start Time: 23 August 2017, 00:15
+        End Time: 5 September 2017, 00:00
+    End Variant: Variant-0
+End:
+        
+Gage: MB100_04_August_2017_NWS
+    Last Modified Date: 19 May 2021
+    Last Modified Time: 22:52:56
+    Reference Height Units: Feet
+    Reference Height: 32
+    Gage Type: Precipitation
+    Precipitation Type: Incremental
+    Units: IN
+    Data Type: PER-CUM
+    Data Source Type: External DSS
+    Variant: Variant-0
+        Last Variant Modified Date: 8 October 2020
+        Last Variant Modified Time: 21:27:17
+        Default Variant: Yes
+        DSS File Name: Harvey_Metvue_Hyet.dss
+        DSS Pathname: //MB100_04/PRECIP-INC/01AUG2017/1HOUR//
+        Start Time: 23 August 2017, 00:15
+        End Time: 5 September 2017, 00:00
+    End Variant: Variant-0
+End:
+        
+Gage: DB100_04_August_2017_NWS
+    Last Modified Date: 19 May 2021
+    Last Modified Time: 22:52:56
+    Reference Height Units: Feet
+    Reference Height: 32
+    Gage Type: Precipitation
+    Precipitation Type: Incremental
+    Units: IN
+    Data Type: PER-CUM
+    Data Source Type: External DSS
+    Variant: Variant-0
+        Last Variant Modified Date: 8 October 2020
+        Last Variant Modified Time: 21:27:17
+        Default Variant: Yes
+        DSS File Name: Harvey_Metvue_Hyet.dss
+        DSS Pathname: //DB100_04/PRECIP-INC/01AUG2017/1HOUR//
+        Start Time: 23 August 2017, 00:15
+        End Time: 5 September 2017, 00:00
+    End Variant: Variant-0
+End:
+        
+Gage: DB104_01_August_2017_NWS
+    Last Modified Date: 19 May 2021
+    Last Modified Time: 22:52:56
+    Reference Height Units: Feet
+    Reference Height: 32
+    Gage Type: Precipitation
+    Precipitation Type: Incremental
+    Units: IN
+    Data Type: PER-CUM
+    Data Source Type: External DSS
+    Variant: Variant-0
+        Last Variant Modified Date: 8 October 2020
+        Last Variant Modified Time: 21:27:17
+        Default Variant: Yes
+        DSS File Name: Harvey_Metvue_Hyet.dss
+        DSS Pathname: //DB104_01/PRECIP-INC/01AUG2017/1HOUR//
+        Start Time: 23 August 2017, 00:15
+        End Time: 5 September 2017, 00:00
+    End Variant: Variant-0
+End:
+        
+Gage: DB11001_01_August_2017_NWS
+    Last Modified Date: 19 May 2021
+    Last Modified Time: 22:52:56
+    Reference Height Units: Feet
+    Reference Height: 32
+    Gage Type: Precipitation
+    Precipitation Type: Incremental
+    Units: IN
+    Data Type: PER-CUM
+    Data Source Type: External DSS
+    Variant: Variant-0
+        Last Variant Modified Date: 8 October 2020
+        Last Variant Modified Time: 21:27:17
+        Default Variant: Yes
+        DSS File Name: Harvey_Metvue_Hyet.dss
+        DSS Pathname: //DB11001_01/PRECIP-INC/01AUG2017/1HOUR//
+        Start Time: 23 August 2017, 00:15
+        End Time: 5 September 2017, 00:00
+    End Variant: Variant-0
+End:
+        
+Gage: GB100_07_August_2017_NWS
+    Last Modified Date: 19 May 2021
+    Last Modified Time: 22:52:56
+    Reference Height Units: Feet
+    Reference Height: 32
+    Gage Type: Precipitation
+    Precipitation Type: Incremental
+    Units: IN
+    Data Type: PER-CUM
+    Data Source Type: External DSS
+    Variant: Variant-0
+        Last Variant Modified Date: 8 October 2020
+        Last Variant Modified Time: 21:27:17
+        Default Variant: Yes
+        DSS File Name: Harvey_Metvue_Hyet.dss
+        DSS Pathname: //GB100_07/PRECIP-INC/01AUG2017/1HOUR//
+        Start Time: 23 August 2017, 00:15
+        End Time: 5 September 2017, 00:00
+    End Variant: Variant-0
+End:
+        
+Gage: GB100_03_August_2017_NWS
+    Last Modified Date: 19 May 2021
+    Last Modified Time: 22:52:56
+    Reference Height Units: Feet
+    Reference Height: 32
+    Gage Type: Precipitation
+    Precipitation Type: Incremental
+    Units: IN
+    Data Type: PER-CUM
+    Data Source Type: External DSS
+    Variant: Variant-0
+        Last Variant Modified Date: 8 October 2020
+        Last Variant Modified Time: 21:27:17
+        Default Variant: Yes
+        DSS File Name: Harvey_Metvue_Hyet.dss
+        DSS Pathname: //GB100_03/PRECIP-INC/01AUG2017/1HOUR//
+        Start Time: 23 August 2017, 00:15
+        End Time: 5 September 2017, 00:00
+    End Variant: Variant-0
+End:
+        
+Gage: DB110_03_August_2017_NWS
+    Last Modified Date: 19 May 2021
+    Last Modified Time: 22:52:56
+    Reference Height Units: Feet
+    Reference Height: 32
+    Gage Type: Precipitation
+    Precipitation Type: Incremental
+    Units: IN
+    Data Type: PER-CUM
+    Data Source Type: External DSS
+    Variant: Variant-0
+        Last Variant Modified Date: 8 October 2020
+        Last Variant Modified Time: 21:27:17
+        Default Variant: Yes
+        DSS File Name: Harvey_Metvue_Hyet.dss
+        DSS Pathname: //DB110_03/PRECIP-INC/01AUG2017/1HOUR//
+        Start Time: 23 August 2017, 00:15
+        End Time: 5 September 2017, 00:00
+    End Variant: Variant-0
+End:
+        
+Gage: DB10501_03_August_2017_NWS
+    Last Modified Date: 19 May 2021
+    Last Modified Time: 22:52:56
+    Reference Height Units: Feet
+    Reference Height: 32
+    Gage Type: Precipitation
+    Precipitation Type: Incremental
+    Units: IN
+    Data Type: PER-CUM
+    Data Source Type: External DSS
+    Variant: Variant-0
+        Last Variant Modified Date: 8 October 2020
+        Last Variant Modified Time: 21:27:17
+        Default Variant: Yes
+        DSS File Name: Harvey_Metvue_Hyet.dss
+        DSS Pathname: //DB10501_03/PRECIP-INC/01AUG2017/1HOUR//
+        Start Time: 23 August 2017, 00:15
+        End Time: 5 September 2017, 00:00
+    End Variant: Variant-0
+End:
+        
