@@ -23,7 +23,8 @@ from pydsstools.core import TimeSeriesContainer,UNDEFINED
 #      End Variant: Variant-0
 
 # use subbasinList to create new gages
-dssFile = r"C:\py\dssHarveyDickinsonBayouCompare\Harvey_Metvue_Hyet.dss"
+dssFile = r"C:\Users\Myles.McManus\Documents\Working\GLO\Met\ClearCreek\A100_OCT2020_HMS48\DSS INPUT\201708_Harvey_NWS.dss"
+inputDssFilename = r"DSS INPUT\201708_Harvey_NWS.dss"
 fileA = HecDss.Open(dssFile)
 DSSpathsA = fileA.getPathnameList('*') 
 
@@ -34,14 +35,14 @@ for pathA in DSSpathsA:
     subbasin = pathSplit[2]
     subbasinList.append(subbasin)
 
-# Remove duplicated from list
+# Remove duplicates from list
 subbasinList = list(set(subbasinList))
 # print (subbasinList)
 with open("NWSgageFileText.txt", 'w') as out_file:
 
     for gage in subbasinList:
         gageStr = f"""
-Gage: {gage}_August_2017_NWS
+Gage: {gage}_Harvey_NWS
     Last Modified Date: 19 May 2021
     Last Modified Time: 22:52:56
     Reference Height Units: Feet
@@ -52,13 +53,13 @@ Gage: {gage}_August_2017_NWS
     Data Type: PER-CUM
     Data Source Type: External DSS
     Variant: Variant-0
-        Last Variant Modified Date: 8 October 2020
-        Last Variant Modified Time: 21:27:17
+        Last Variant Modified Date: 28 September 2020
+        Last Variant Modified Time: 20:28:37
         Default Variant: Yes
-        DSS File Name: Harvey_Metvue_Hyet.dss
-        DSS Pathname: //{gage}/PRECIP-INC/01AUG2017/1HOUR//
+        DSS File Name: {inputDssFilename}
+        DSS Pathname: //{gage}/PRECIP-INC/01AUG2017/15MIN/NWS/
         Start Time: 23 August 2017, 00:15
-        End Time: 5 September 2017, 00:00
+        End Time: 31 August 2017, 00:00
     End Variant: Variant-0
 End:
         """

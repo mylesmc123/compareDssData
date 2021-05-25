@@ -20,15 +20,18 @@ from hydroeval import evaluator, nse
 
 # Open file A & B to compare.
 
-dssFile = r"C:\py\dssHarveyDickinsonBayouCompare\HarveyNWSVieuxFlowCompare.dss"
+dssFile = r"C:\Users\Myles.McManus\Documents\Working\GLO\Met\ClearCreek\A100_OCT2020_HMS48\DSS OUTPUT\HarveyJustFlow.dss"
 fileA = HecDss.Open(dssFile)
 
 # NOTE: Assuming b-parts match between the two files. Assuming pathname strcture of both files.
 
-NWS_structure =  '//Subbasin/Flow//15MIN/RUN:HARVEY - NWS/'
-Vieux_structure =  '//Subbasin/Flow//15MIN/RUN:HARVEY/'
+NWS_structure =  '//Subbasin/Flow//15MIN/RUN:201708_HARVEY_NWS/'
+Vieux_structure =  '//Subbasin/Flow//15MIN/RUN:201708_HARVEY/'
+fpartA_structure = NWS_structure.split("/")[6]
+fpartB_structure = Vieux_structure.split("/")[6]
 startDate = "23Aug2017 00:15:00"
-endDate = "04Sep2017 24:00:00"
+endDate = "01Sep2017 24:00:00"
+
 # for each b-part get C=PRECIP-INC
 # get b-parts
 DSSpathsA = fileA.getPathnameList('*') 
@@ -50,9 +53,9 @@ for pathA in DSSpathsA:
     subbasinList.append(subbasin)
     # Remove d-part
     noDpartPath = f"//{subbasin}/{cPart}//{ePart}/{fPart}/"
-    if fPart == "RUN:HARVEY - NWS":
+    if fPart == fpartA_structure:
         DSSpathsA_List.append(noDpartPath)
-    elif fPart == "RUN:HARVEY":
+    elif fPart == fpartB_structure:
         DSSpathsB_List.append(noDpartPath)
 
 # sort the lists alphabetically, and remove dups
@@ -140,6 +143,7 @@ fig.update_layout(height=n*800,
                              hoverlabel=dict(font=dict(family='sans-serif', size=22),
                                                          namelength= -1)
                             )
-fig.show()
+# fig.show()
+
 fig.write_html("flowCompare.html")
 # write difference of Precip Totals table per subbasin

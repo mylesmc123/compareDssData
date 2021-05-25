@@ -19,40 +19,56 @@ import pandas as pd
 
 # Open file A & B to compare.
 
-dssFile = r"C:\py\dssHarveyDickinsonBayouCompare\Harvey_Metvue_Hyet.dss"
-fileA = HecDss.Open(dssFile)
-
-dssFile = r"C:\py\dssHarveyDickinsonBayouCompare\Dickinson_Bayou_TimeSeries_Vieux.dss"
-fileB = HecDss.Open(dssFile)
+dssFilename = r"C:\py\compareDssData\ClearCreekHarveyNWSVieuxFlowCompare.dss"
+dssFile = HecDss.Open(dssFilename)
 
 # NOTE: Assuming b-parts match between the two files. ASsuming pathname strcture of both files.
 
-fileA_structure =  '//Subbasin/PRECIP-INC//1HOUR//'
-fileB_structure =  '//Subbasin/PRECIP-INC//15MIN/VIEUXHIST/'
-startDate = "22Aug2017 23:00:00"
-endDate = "31Aug2017 23:00:00"
+NWS_structure =  '//Subbasin/Flow//15MIN/NWS/'
+Vieux_structure =  '//Subbasin/Flow//15MIN/VIEUXHIST/'
+fpartA_structure = NWS_structure.split("/")[6]
+fpartB_structure = Vieux_structure.split("/")[6]
+startDate = "23Aug2017 00:15:00"
+endDate = "30Aug2017 24:00:00"
+
 # for each b-part get C=PRECIP-INC
 # get b-parts
-DSSpathsA = fileA.getPathnameList('*') 
+DSSpaths = dssFile.getPathnameList('*') 
 # DSSpathsA = fileA.getCatalogedPathnames("/*/*/PRECIP-INC/*/*/*/")
 # DSSpathsA_accum = fileA.getPathnameList('C=PRECIP-CUM')
 subbasinList = []
 DSSpathsA_incList = []
 DSSpathsA_accumList = []
-for pathA in DSSpathsA:
-    pathSplit = pathA.split("/")
+DSSpathsB_incList = []
+DSSpathsB_accumList = []
+for dssPath in DSSpaths:
+    pathSplit = dssPath.split("/")
     subbasin = pathSplit[2]
     cPart = pathSplit[3]
+    ePart = pathSplit[5]
+    fPart = pathSplit[6]
     subbasinList.append(subbasin)
-    if cPart == "PRECIP-INC":
-        DSSpathsA_incList.append(pathA)
-    elif cPart == "PRECIP-CUM":
-        DSSpathsA_accumList.append(pathA)
+    # Remove d-part
+    noDpartPath = f"//{subbasin}/{cPart}//{ePart}/{fPart}/"
+    # Populate Pathname Lists
+    if fPart == fpartA_structure:
+        if cPart == "PRECIP-INC":
+            DSSpathsA_incList.append(noDpartPath)
+        elif cPart == "PRECIP-CUM":
+            DSSpathsA_accumList.append(noDpartPath)
+    elif fPart == fpartB_structure:
+        if cPart == "PRECIP-INC":
+            DSSpathsB_incList.append(noDpartPath)
+        elif cPart == "PRECIP-CUM":
+            DSSpathsB_accumList.append(noDpartPath)
+   
 
 # sort the lists alphabetically
-subbasinList = sorted(subbasinList)
-DSSpathsA_incList = sorted(DSSpathsA_incList)
-DSSpathsA_accumList = sorted(DSSpathsA_accumList)
+subbasinList = sorted(list(set(subbasinList)))
+DSSpathsA_incList = sorted(list(set(DSSpathsA_incList)))
+DSSpathsA_accumList = sorted(list(set(DSSpathsA_accumList)))
+DSSpathsB_incList = sorted(list(set(DSSpathsB_incList)))
+DSSpathsB_accumList = sorted(list(set(DSSpathsB_accumList)))
 
 n = len(DSSpathsA_incList)
 n_columns = 2
@@ -63,25 +79,21 @@ fig = make_subplots(  rows=n,
                                     vertical_spacing=.1/(n-1),
                                     subplot_titles=subPlotTitleList)
 
-# limit paths for testing.
-# DSSpathsA = DSSpathsA[0:2]
 
-for i, (pathA, pathA_accum) in enumerate(zip(DSSpathsA_incList, DSSpathsA_accumList)):
-    tsA = fileA.read_ts(pathA,window=(startDate,endDate),trim_missing=True)
-    tsA_accum = fileA.read_ts(pathA_accum,window=(startDate,endDate),trim_missing=True)
-    pathSplit = pathA.split("/")
-    subbasin = pathSplit[2]
-    cPart = pathSplit[3]
-    dPart = pathSplit[4]
-    pathB = f'//{subbasin}/PRECIP-INC/{dPart}/15MIN/VIEUXHIST/'
-    pathB_accum = f'//{subbasin}/PRECIP-CUM/{dPart}/15MIN/VIEUXHIST/'
-    tsB = fileB.read_ts(pathB,window=(startDate,endDate),trim_missing=True)
-    tsB_accum = fileB.read_ts(pathB_accum,window=(startDate,endDate),trim_missing=True)
+zipList = zip(DSSpathsA_incList, DSSpathsA_accumList, DSSpathsB_incList, DSSpathsB_accumList)
+# limit paths for testing.
+zipList = list(zipList)[0:60]
+
+for i, (pathA_inc, pathA_accum, pathB_inc, pathB_accum) in enumerate(zipList):
+    tsA_inc = dssFile.read_ts(pathA_inc,window=(startDate,endDate),trim_missing=True)
+    tsA_accum = dssFile.read_ts(pathA_accum,window=(startDate,endDate),trim_missing=True)
+    tsB_inc = dssFile.read_ts(pathB_inc,window=(startDate,endDate),trim_missing=True)
+    tsB_accum = dssFile.read_ts(pathB_accum,window=(startDate,endDate),trim_missing=True)
 
     dfA = pd.DataFrame()
-    dfA['Times'] = tsA.pytimes
-    dfA['Values'] = tsA.values
-    dfA['Missing'] = tsA.nodata
+    dfA['Times'] = tsA_inc.pytimes
+    dfA['Values'] = tsA_inc.values
+    dfA['Missing'] = tsA_inc.nodata
     dfA.Values = np.where(dfA.Missing == True, np.NaN, dfA.Values)
 
     dfA_accum = pd.DataFrame()
@@ -93,9 +105,9 @@ for i, (pathA, pathA_accum) in enumerate(zip(DSSpathsA_incList, DSSpathsA_accumL
     
 
     dfB = pd.DataFrame()
-    dfB['Times'] = tsB.pytimes
-    dfB['Values'] = tsB.values
-    dfB['Missing'] = tsB.nodata
+    dfB['Times'] = tsB_inc.pytimes
+    dfB['Values'] = tsB_inc.values
+    dfB['Missing'] = tsB_inc.nodata
     dfB.Values = np.where(dfB.Missing == True, np.NaN, dfB.Values)
 
     dfB_accum = pd.DataFrame()
