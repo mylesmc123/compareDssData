@@ -82,7 +82,7 @@ fig = make_subplots(  rows=n,
 
 zipList = zip(DSSpathsA_incList, DSSpathsA_accumList, DSSpathsB_incList, DSSpathsB_accumList)
 # limit paths for testing.
-zipList = list(zipList)[0:60]
+# zipList = list(zipList)[0:60]
 
 for i, (pathA_inc, pathA_accum, pathB_inc, pathB_accum) in enumerate(zipList):
     tsA_inc = dssFile.read_ts(pathA_inc,window=(startDate,endDate),trim_missing=True)
@@ -124,25 +124,25 @@ for i, (pathA_inc, pathA_accum, pathB_inc, pathB_accum) in enumerate(zipList):
     fig.append_trace(go.Scatter(
         x=dfA.Times, 
         y=dfA.Values,
-        name = subbasin + " NWS ",
+        name = subbasinList[i] + " NWS ",
     ), row=i+1, col=1)
 
     fig.append_trace(go.Scatter(
         x=dfA_accum.Times, 
         y=dfA_accum.Values,
-        name = subbasin + " NWS ",
+        name = subbasinList[i] + " NWS ",
     ), row=i+1, col=2)
 
     fig.append_trace(go.Scatter(
         x=dfB.Times, 
         y=dfB.Values,
-        name = subbasin + " Vieux ",
+        name = subbasinList[i] + " Vieux ",
     ), row=i+1, col=1)
 
     fig.append_trace(go.Scatter(
         x=dfB_accum.Times, 
         y=dfB_accum.Values,
-        name = subbasin + " Vieux ",
+        name = subbasinList[i] + " Vieux ",
     ), row=i+1, col=2)
 
     # fig.layout.annotations[i+1].update(text=f"{subbasin} NWS - Vieux = {sumdiffAB}")
